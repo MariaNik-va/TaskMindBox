@@ -1,6 +1,6 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
-using TextTaskMindBox;
+using TaskMindBox;
 
 namespace TaskMindBox.Tests;
 

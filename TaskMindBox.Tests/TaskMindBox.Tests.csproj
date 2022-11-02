@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\TextTaskMindBox\TaskMindBox.csproj" />
+    <ProjectReference Include="..\TaskMindBox\TaskMindBox.csproj" />
   </ItemGroup>
 
 </Project>
